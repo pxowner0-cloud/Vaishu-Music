@@ -72,9 +72,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ### ᴄᴏɴᴛᴀᴄᴛ :
 <p align="center">
-<a href="https://t.me/BotsSupport_36"><img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/BotsSupport_36"><img title="Support" https://t.me/PRINCEsNETWORksrc="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://t.me/BOTxBOOSTER"><img title="Update" src="https://img.shields.io/badge/Update-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/BOTxBOOSTER"><img title="Update" https://t.me/PRINCEsNETWORksrc="https://img.shields.io/badge/Update-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
