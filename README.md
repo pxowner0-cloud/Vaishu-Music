@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-    ───「 ᴠᴀɪsʜᴜ ᴍᴜsɪᴄ 」───
+    ───「 NISHA MUSIC」───
 </h2>
 
 
